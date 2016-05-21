@@ -1,0 +1,21 @@
+{
+  "name": "ip-from-range",
+  "version": "1.0.0",
+  "description": "ip from range allows you get all ip address from a range of ip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alexrili@bitbucket.org/onload/ip-from-range.git"
+  },
+  "keywords": [
+    "ip",
+    "range",
+    "ip-from-range"
+  ],
+  "author": "@alexrili",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/onload/ip-from-range#readme"
+}
